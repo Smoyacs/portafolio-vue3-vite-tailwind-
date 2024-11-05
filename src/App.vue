@@ -1,13 +1,20 @@
-<script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+
+  <Navbar />
+  <Perfil />
+  <Experiencia />
+  <Proyectos />
+  <Sobremi />
 </template>
+
+<script setup>
+import Navbar from './components/Navbar.vue'
+import Perfil from './components/Perfil.vue'
+import Experiencia from './components/Experiencia.vue'
+import Proyectos from './components/Proyectos.vue'
+import Sobremi from './components/Sobremi.vue'
+
+</script>
 
 <style>
 #app {
@@ -17,5 +24,14 @@ import HelloWorld from './components/HelloWorld.vue'
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+:root {
+  color-scheme: dark;
+  background: rgb(1,0,14);
+  background: linear-gradient(23deg, rgba(1,0,14,1) 44%, rgba(72,72,91,1) 99%);
+
+}
+body {
+  margin: 0px 3%;
 }
 </style>
