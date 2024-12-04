@@ -25,7 +25,7 @@
           Además de mi interés por la tecnología, disfruto de un <strong>estilo de vida activo</strong> y me gusta <strong>practicar deporte</strong>. Creo firmemente en la importancia de mantener un <strong>equilibrio entre el trabajo y la salud física</strong>. Siempre estoy buscando nuevas oportunidades para <strong>aprender y aplicar mis conocimientos</strong>, ya sea en proyectos personales o colaborando con otros. Mi objetivo es seguir <strong>expandiendo mis habilidades</strong> y contribuir al <strong>avance tecnológico</strong>.
         </p>
       </div> <img width="200" height="200" src="/perfil.png" alt="Sebastian Moya"
-        class="order-1 object-cover w-64 h-full md:order-2 rotate-2 lg:p-2 lg:w-64  rounded-3xl bg-black/20 dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20 "
+        class=" order-1 object-cover w-64 h-full md:order-2 rotate-2 lg:p-2 lg:w-64  rounded-3xl  dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20 "
         >
     </article> <!-- FRASES PROHIBIDAS EN VUESTRO PORTFOLIO
 

@@ -1,0 +1,36 @@
+/* Add viewport meta tag styles */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+}
+
+/* For smaller mobile devices */
+@media screen and (max-width: 480px) {
+  .header {
+    padding: 10px;
+  }
+  
+  .nav-item {
+    margin: 5px 0;
+  }
+} 
