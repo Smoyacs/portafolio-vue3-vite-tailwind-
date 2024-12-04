@@ -130,6 +130,7 @@
   /* Adjust main content to account for both navbars */
   body {
     padding-top: 110px;
+    width: 360px;
   }
 
   /* Logo adjustments */
@@ -143,6 +144,91 @@
     max-width: 100%;
     margin: 0 auto;
     overflow-x: hidden;
+  }
+
+  /* Project technology tags adjustments */
+  .flex.flex-row.mb-2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* Individual tag adjustments */
+  .rounded-full {
+    font-size: 0.7rem;
+    padding: 4px 8px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  /* Icon size in tags */
+  .rounded-full .size-4 {
+    width: 12px;
+    height: 12px;
+    margin-right: 4px;
+  }
+
+  /* Project container adjustments */
+  .flex.flex-col.space-x-0.space-y-8 {
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+  }
+
+  /* Project description container */
+  .w-full.md\:w-1\/2.md\:max-w-lg {
+    padding: 0 10px;
+  }
+
+  /* Technology tags container */
+  ul.flex.flex-row.mb-2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    gap: 6px;
+    width: 100%;
+    padding: 0 5px;
+  }
+
+  /* Individual tag styles */
+  .rounded-full {
+    font-size: 0.65rem;
+    padding: 4px 6px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-width: 0;
+  }
+
+  /* Icon adjustments in tags */
+  .rounded-full .size-4 {
+    width: 10px;
+    height: 10px;
+    min-width: 10px;
+    margin-right: 3px;
+    flex-shrink: 0;
+  }
+
+  /* Project container width */
+  .flex.flex-col.space-x-0.space-y-8 {
+    width: 100%;
+    max-width: 360px;
+    padding: 0 5px;
+  }
+
+  /* Project description adjustments */
+  .w-full.md\:w-1\/2.md\:max-w-lg {
+    width: 100%;
+    max-width: 360px;
+    padding: 0 5px;
+  }
+
+  /* Text overflow handling */
+  .text-gray-700.dark\:text-gray-400 {
+    font-size: 0.85rem;
+    line-height: 1.4;
   }
 }
 
