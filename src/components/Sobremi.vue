@@ -15,14 +15,14 @@
     <article class="flex flex-col items-center justify-center gap-8 text-gray-700 dark:text-gray-300 md:flex-row">
       <div
         class="[&amp;>p]:mb-4 [&amp;>p>strong]:text-yellow-500 dark:[&amp;>p>strong]:text-yellow-100 [&amp;>p>strong]:font-normal [&amp;>p>strong]:font-mono text-pretty order-2 md:order-1">
-        <p>
-          Hola, soy Sebastián Moya. Estuve <strong>5 años</strong> en <strong>Ingeniería Civil Electrónica</strong> y luego <strong>2 años</strong> en <strong>Ingeniería Civil Biomédica</strong>, experiencias que considero <strong>fundamentales</strong> para adquirir conocimientos y habilidades valiosas, aunque no finalicé ambas carreras. 
+        <p class="px-2">
+          Hola, soy Sebastián Moya. Estudie <strong>5 años</strong> en <strong>Ingeniería Civil Electrónica</strong> y luego <strong>2 años</strong> en <strong>Ingeniería Civil Biomédica</strong>, experiencias que considero <strong>fundamentales</strong> para adquirir conocimientos y habilidades valiosas, aunque no finalicé ambas carreras. 
         </p>
-        <p>
+        <p class="px-2">
           Durante mi formación, descubrí mi <strong>pasión por la programación</strong> al cursar algunos ramos, lo que me motivó a tomar un <strong>bootcamp</strong> para profundizar en esta área. Esta experiencia me permitió <strong>complementar mi educación técnica</strong> y seguir creciendo en el campo del <strong>desarrollo de software</strong>.
         </p>
-        <p>
-          Además de mi interés por la tecnología, disfruto de un <strong>estilo de vida activo</strong> y me gusta <strong>practicar deporte</strong>. Creo firmemente en la importancia de mantener un <strong>equilibrio entre el trabajo y la salud física</strong>. Siempre estoy buscando nuevas oportunidades para <strong>aprender y aplicar mis conocimientos</strong>, ya sea en proyectos personales o colaborando con otros. Mi objetivo es seguir <strong>expandiendo mis habilidades</strong> y contribuir al <strong>avance tecnológico</strong>.
+        <p class="px-2">
+          Además de mi interés por la tecnología, me gusta <strong>practicar deporte</strong>. Creo firmemente en la importancia de mantener un <strong>equilibrio entre el trabajo y la salud física</strong>. Siempre estoy buscando nuevas oportunidades para <strong>aprender y aplicar mis conocimientos</strong>, ya sea en proyectos personales o colaborando con otros. Mi objetivo es seguir <strong>expandiendo mis habilidades</strong> y contribuir al avance tecnológico.
         </p>
       </div> <img width="200" height="200" src="/perfil.png" alt="Sebastian Moya"
         class=" order-1 object-cover w-64 h-full md:order-2 rotate-2 lg:p-2 lg:w-64  rounded-3xl  dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20 "
