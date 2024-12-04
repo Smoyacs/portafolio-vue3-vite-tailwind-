@@ -1,7 +1,7 @@
 <template>
   <section id="proyectos" data-section="proyectos"
     class="section undefined scroll-m-20 w-full mx-auto container lg:max-w-4xl md:max-w-2xl py-6">
-    <h2 class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-black/80 dark:text-white undefined"> <svg
+    <h2 class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-black/80 dark:text-white px-3"> <svg
         class="size-7" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2"
         stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -11,7 +11,7 @@
       </svg>
       Proyectos
     </h2>
-    <div class="flex flex-col gap-y-16">
+    <div class="flex flex-col gap-y-16 px-3">
 
       <article class="flex flex-col space-x-0 space-y-8 group md:flex-row md:space-x-8 md:space-y-0">
         <div class="w-full md:w-1/2">

@@ -32,6 +32,6 @@ import Sobremi from './components/Sobremi.vue'
 
 }
 body {
-  margin: 0px 3%;
+  margin: 0px;
 }
 </style>

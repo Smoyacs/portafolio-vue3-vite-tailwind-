@@ -2,7 +2,7 @@
   <section class="section py-16 md:py-22 scroll-m-20 w-full mx-auto container lg:max-w-4xl md:max-w-2xl"
     data-metatip="true">
     <div class="max-w-xl">
-      <div class="flex gap-4 mb-4" spellcheck="true">
+      <div class="flex gap-4 mb-4 px-3" spellcheck="true">
         <img class="rounded-full shadow-lg size-16" src="/perfil.png" alt="Sebastian Moya">
         <a
           href="https://linkedin.com/in/sebastian-moya-dev" target="_blank" rel="noopener"
