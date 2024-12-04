@@ -67,3 +67,21 @@
 
 <script setup>
 </script>
+
+<style scoped>
+@media screen and (max-width: 480px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-left: 0;
+  }
+  
+  nav a {
+    width: 100%;
+    max-width: 250px;
+    justify-content: center;
+  }
+}
+</style>

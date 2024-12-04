@@ -1,6 +1,6 @@
 <template>
   <section id="experiencia" data-section="experiencia"
-    class="py-12 section scroll-m-20 w-full mx-auto container lg:max-w-4xl md:max-w-2xl">
+    class="py-3 section scroll-m-20 w-full mx-auto container lg:max-w-4xl md:max-w-2xl">
     <h2 class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-black/80 dark:text-white px-3"> <svg
         class="size-8" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
         stroke-linecap="round" stroke-linejoin="round">
