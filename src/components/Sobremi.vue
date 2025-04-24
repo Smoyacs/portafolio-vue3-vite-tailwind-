@@ -16,7 +16,7 @@
       <div
         class="[&amp;>p]:mb-4 [&amp;>p>strong]:text-yellow-500 dark:[&amp;>p>strong]:text-yellow-100 [&amp;>p>strong]:font-normal [&amp;>p>strong]:font-mono text-pretty order-2 md:order-1">
         <p class="px-2">
-          Hola, soy Sebastián Moya. Estudie <strong>5 años</strong> en <strong>Ingeniería Civil Electrónica</strong> y luego <strong>2 años</strong> en <strong>Ingeniería Civil Biomédica</strong>, experiencias que considero <strong>fundamentales</strong> para adquirir conocimientos y habilidades valiosas, aunque no finalicé ambas carreras. 
+          Hola, soy Sebastián Moya. Estudie <strong>5 años</strong> en <strong>Ingeniería Civil Electrónica</strong> y luego <strong>2 años</strong> en <strong>Ingeniería Civil Biomédica</strong>, experiencias que considero <strong>fundamentales</strong> para adquirir conocimientos y habilidades valiosas. 
         </p>
         <p class="px-2">
           Durante mi formación, descubrí mi <strong>pasión por la programación</strong> al cursar algunos ramos, lo que me motivó a tomar un <strong>bootcamp</strong> para profundizar en esta área. Esta experiencia me permitió <strong>complementar mi educación técnica</strong> y seguir creciendo en el campo del <strong>desarrollo de software</strong>.
